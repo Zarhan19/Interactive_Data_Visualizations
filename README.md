@@ -14,5 +14,5 @@ This project requires **Python 2.x or Python 3.x** and the following Python libr
 
 ### Data
 
-The data is a Kaggle Dataset available at <a rel="data" href="https://www.kaggle.com/lakshyaag/india-trade-data"></a>
+The data is a Kaggle Dataset available at "https://www.kaggle.com/lakshyaag/india-trade-data"
 
